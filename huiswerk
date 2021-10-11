@@ -1,0 +1,44 @@
+huiswerk
+# Vul in eigen woorden aan wat de commando, die hieronder staan, doen
+
+#git status =git status deze vragen heel algemeen beantwoordt door de bestandsnamen te tonen,
+
+laat git diff je de exacte toegevoegde en verwijderde regels zien, de patch, als het ware.
+
+ 
+
+#git init = respotory aanmaken
+
+ 
+
+#git diff = hiermee kan je verandering doen in jouw git
+
+#git reset = git reset --soft , die je bestanden bewaart en alle wijzigingen automatisch terugzet.
+
+git reset --hard ,waarmee alle wijzigingen volledig worden
+
+vernietigd en uit de lokale map worden verwijderd.
+
+ 
+
+#git rm = git rm wordt gebruikt om een ​​bestand uit een Git-repository te verwijderen.
+
+Het is een gemaksmethode die het effect van het standaard shell rm-commando combineert
+
+met git add . Dit betekent dat het eerst een doel van het bestandssysteem zal
+
+verwijderen en vervolgens die verwijderingsgebeurtenis aan de staging-index zal toevoegen.
+
+ 
+
+#git log = The git log command shows a list of all the commits made to a repository.
+
+You can see the hash of each Git commit, the message associated with each commit,
+
+and more metadata. This command is useful for displaying the history of a repository.
+
+ 
+
+#git stash = iets opgeslagen of verborgen een voorraad verdovende middelen.
+
+Synoniemen Meer voorbeeldzinnen Meer informatie over stash
